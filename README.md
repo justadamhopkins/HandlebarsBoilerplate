@@ -1,4 +1,4 @@
-# KHWS Boilerplate
+# HandlebarsBoilerplate
 
 Front-end project boilerplate to be used as a seed for all new repositories (where applicable).
 
@@ -50,4 +50,4 @@ The JS is structured using requirejs to provide a modular pattern. For more info
 
 ## Deployment build
 	- `grunt build`
-# HandlebarsBoilerplate
+
