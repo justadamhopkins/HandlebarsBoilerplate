@@ -1,0 +1,64 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>{{title}} | KHWS Boilerplate</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <link rel="stylesheet" href="./assets/css/style.css">
+        <script src="https://payments.worldpay.com/resources/cse/js/worldpay-cse-1.latest.min.js"></script>
+    </head>
+
+    <body class="{{bodyClass}}">
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+        <header id="header" class="">
+          
+          <button>CLICK ME</button>
+
+          <form action="" method="post">
+            <input id="cardHolderName"  value="John Doe">
+            <!-- This is the card holder name field -->
+            <input id="cardNumber"  value="4444333322221111">
+            <!-- This is the card number field -->
+            <input id="expiryMonth"  value="09">
+            <!-- This is the expiry month field -->
+            <input id="expiryYear"  value="2022">
+            <!-- This is the expiry year field -->
+            <input id="cvc"  value="091">
+            <!-- This is the CVC field-->
+            <div id="encryptedData">
+
+            </div>
+           
+            <button type="submit">
+          </form>
+
+        </header>
+
+        {{!-- <section>
+            <article>
+                {{> body}}
+            </article>
+        </section>
+
+        <footer>
+
+        </footer> --}}
+        <script>
+ 
+          Worldpay.setPublicKey("1\#10001\#c034b3b7e6e50f4c23f7f1564f47c25a863cdbacc3fc207f6ba36bf79770d871adb310f70895967367a1986214432454deeed2b256559d5618ce78753948b6826ea92377c5ae88fc964457e440dc9e64c628a83d8ec17e4a412cec9b684f64f37e4486881a1c95471f56027bcb1f1adda784dbec32d6148b5eedf8de749de427b079d34c31846d57094f646ff6ed2e18bfa60d59eb4143bbafedfaef8e6a45132563ce9dc5f92b8e3361cbf8946096c9eef35a4fe1f6b7f028bd615b84ce7f7677982005fdcf87e71ef42d4e2ba3000ba25624faec4fcd3d2a096531b9f993f1ab6b46124518eea457da9ef46d59e6e330e8d8c93d169cf385358cd9628e8b21");
+          
+        </script>
+        <script  src="./assets/js/application.js"></script>
+
+    </body>
+</html>

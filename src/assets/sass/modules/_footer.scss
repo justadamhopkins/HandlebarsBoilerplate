@@ -1,0 +1,7 @@
+footer {
+	display:flex;
+	color:$link-color;
+	@include breakpoint(desktop) {
+		background:#000;
+	}
+}

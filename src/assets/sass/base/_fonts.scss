@@ -1,0 +1,353 @@
+
+//Exxon Mobil Fonts - Uncomment as nessesary
+
+// @font-face {
+// 	font-family: "EMprint-Bold";
+// 		src: url('../fonts/exxon/EMprint-Bold.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-Bold.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-BoldItalic";
+// 		src: url('../fonts/exxon/EMprint-BoldItalic.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-BoldItalic.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-BoldItalic.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-BoldItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-BoldItalic.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-CondSemiboldIt";
+// 		src: url('../fonts/exxon/EMprint-CondSemiboldIt.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-CondSemiboldIt.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-CondSemiboldIt.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondSemiboldIt.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondSemiboldIt.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-CondSemiboldIt.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-CondensedBold";
+// 		src: url('../fonts/exxon/EMprint-CondensedBold.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-CondensedBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-CondensedBold.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondensedBold.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondensedBold.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-CondensedBold.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-CondensedBoldIt";
+// 		src: url('../fonts/exxon/EMprint-CondensedBoldIt.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-CondensedBoldIt.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-CondensedBoldIt.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondensedBoldIt.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondensedBoldIt.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-CondensedBoldIt.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-CondensedItalic";
+// 		src: url('../fonts/exxon/EMprint-CondensedItalic.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-CondensedItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-CondensedItalic.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondensedItalic.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondensedItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-CondensedItalic.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-CondensedLight";
+// 		src: url('../fonts/exxon/EMprint-CondensedLight.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-CondensedLight.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-CondensedLight.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondensedLight.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondensedLight.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-CondensedLight.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-CondensedLightIt";
+// 		src: url('../fonts/exxon/EMprint-CondensedLightIt.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-CondensedLightIt.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-CondensedLightIt.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondensedLightIt.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondensedLightIt.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-CondensedLightIt.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-CondensedRegular";
+// 		src: url('../fonts/exxon/EMprint-CondensedRegular.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-CondensedRegular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-CondensedRegular.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondensedRegular.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondensedRegular.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-CondensedRegular.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-CondensedSemibold";
+// 		src: url('../fonts/exxon/EMprint-CondensedSemibold.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-CondensedSemibold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-CondensedSemibold.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondensedSemibold.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-CondensedSemibold.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-CondensedSemibold.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-Light";
+// 		src: url('../fonts/exxon/EMprint-Light.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-Light.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-Light.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-Light.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-Light.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-LightItalic";
+// 		src: url('../fonts/exxon/EMprint-LightItalic.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-LightItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-LightItalic.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-LightItalic.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-LightItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-LightItalic.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-Regular";
+// 		src: url('../fonts/exxon/EMprint-Regular.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-Regular.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-RegularItalic";
+// 		src: url('../fonts/exxon/EMprint-RegularItalic.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-RegularItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-RegularItalic.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-RegularItalic.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-RegularItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-RegularItalic.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-Semibold";
+// 		src: url('../fonts/exxon/EMprint-Semibold.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-Semibold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-Semibold.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-Semibold.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-Semibold.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-Semibold.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: "EMprint-SemiboldItalic";
+// 		src: url('../fonts/exxon/EMprint-SemiboldItalic.eot'); /* IE9 Compat Modes */
+// 		src: url('../fonts/exxon/EMprint-SemiboldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+// 			url('../fonts/exxon/EMprint-SemiboldItalic.woff2') format('woff2'), /* Super Modern Browsers */
+// 			url('../fonts/exxon/EMprint-SemiboldItalic.woff') format('woff'), /* Pretty Modern Browsers */
+// 			url('../fonts/exxon/EMprint-SemiboldItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+// 			url('../fonts/exxon/EMprint-SemiboldItalic.svg#web') format('svg'); /* Legacy iOS */
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+$exfont-reg: 'EMprint-Regular', sans-serif;
+$exfont-med: 'EMprint-Semibold', sans-serif;
+$exfont-bold: 'EMprint-Bold', sans-serif;
+
+//Samsung Fonts - Uncomment as nessesary
+
+// @font-face {
+//     font-family: 'samsungone200';
+//     src: url('../fonts/samsung/samsungone-200_v1.0-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-200_v1.0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-200_v1.0-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-200_v1.0-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-200_v1.0-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-200_v1.0-webfont.svg#samsungone200') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone200c';
+//     src: url('../fonts/samsung/samsungone-200c_v1.0-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-200c_v1.0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-200c_v1.0-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-200c_v1.0-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-200c_v1.0-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-200c_v1.0-webfont.svg#samsungone200c') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone300';
+//     src: url('../fonts/samsung/samsungone-300_v1.0-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-300_v1.0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-300_v1.0-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-300_v1.0-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-300_v1.0-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-300_v1.0-webfont.svg#samsungone300') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone300c';
+//     src: url('../fonts/samsung/samsungone-300c_v1.0-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-300c_v1.0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-300c_v1.0-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-300c_v1.0-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-300c_v1.0-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-300c_v1.0-webfont.svg#samsungone300c') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone400';
+//     src: url('../fonts/samsung/samsungone-400_v1.0-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-400_v1.0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-400_v1.0-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-400_v1.0-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-400_v1.0-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-400_v1.0-webfont.svg#samsungone400') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone400c';
+//     src: url('../fonts/samsung/samsungone-400c_v1.0-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-400c_v1.0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-400c_v1.0-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-400c_v1.0-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-400c_v1.0-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-400c_v1.0-webfont.svg#samsungone400c') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone450';
+//     src: url('../fonts/samsung/samsungone-450_v1.0-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-450_v1.0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-450_v1.0-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-450_v1.0-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-450_v1.0-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-450_v1.0-webfont.svg#samsungone450') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone450c';
+//     src: url('../fonts/samsung/samsungone-450c_v1.0-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-450c_v1.0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-450c_v1.0-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-450c_v1.0-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-450c_v1.0-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-450c_v1.0-webfont.svg#samsungone450c') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone500';
+//     src: url('../fonts/samsung/samsungone-500-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-500-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-500-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-500-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-500-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-500-webfont.svg#samsungone500') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone500c';
+//     src: url('../fonts/samsung/samsungone-500c_v1.0-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-500c_v1.0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-500c_v1.0-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-500c_v1.0-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-500c_v1.0-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-500c_v1.0-webfont.svg#samsungone500c') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone600';
+//     src: url('../fonts/samsung/samsungone-600-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-600-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-600-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-600-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-600-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-600-webfont.svg#samsungone600') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone600c';
+//     src: url('../fonts/samsung/samsungone-600c_v1.0-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-600c_v1.0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-600c_v1.0-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-600c_v1.0-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-600c_v1.0-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-600c_v1.0-webfont.svg#samsungone600c') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone700';
+//     src: url('../fonts/samsung/samsungone-700_v1.0-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-700_v1.0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-700_v1.0-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-700_v1.0-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-700_v1.0-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-700_v1.0-webfont.svg#samsungone700') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone700c';
+//     src: url('../fonts/samsung/samsungone-700c_v1.0-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-700c_v1.0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-700c_v1.0-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-700c_v1.0-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-700c_v1.0-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-700c_v1.0-webfont.svg#samsungone700c') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone800';
+//     src: url('../fonts/samsung/samsungone-800_v1.0-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-800_v1.0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-800_v1.0-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-800_v1.0-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-800_v1.0-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-800_v1.0-webfont.svg#samsungone800') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'samsungone800c';
+//     src: url('../fonts/samsung/samsungone-800c_v1.0-webfont.eot');
+//     src: url('../fonts/samsung/samsungone-800c_v1.0-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/samsung/samsungone-800c_v1.0-webfont.woff2') format('woff2'), url('../fonts/samsung/samsungone-800c_v1.0-webfont.woff') format('woff'), url('../fonts/samsung/samsungone-800c_v1.0-webfont.ttf') format('truetype'), url('../fonts/samsung/samsungone-800c_v1.0-webfont.svg#samsungone800c') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'Samsung Sharp Sans';
+//     src: url('../fonts/samsung/SamsungSharpSans-Bold.eot');
+//     src: url('../fonts/samsung/SamsungSharpSans-Bold.eot?#iefix') format('embedded-opentype'),
+//         url('../fonts/samsung/SamsungSharpSans-Bold.woff2') format('woff2'),
+//         url('../fonts/samsung/SamsungSharpSans-Bold.woff') format('woff'),
+//         url('../fonts/samsung/SamsungSharpSans-Bold.ttf') format('truetype'),
+//         url('../fonts/samsung/SamsungSharpSans-Bold.svg#SamsungSharpSans-Bold') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
+
+$samfont-reg: 'samsungone400', sans-serif;
+$samfont-h1: 'samsungone800', sans-serif;
+$samfont-h2: 'samsungone700', sans-serif;
+$samfont-h1c: 'samsungone300', sans-serif;
+$samfont-h2c: 'samsungone200', sans-serif;
+$samfont-h3456: 'samsungone600', sans-serif;
+
+@fa-font-path: "../fonts";
+
+h1, h2, h3, h4, h5 {
+	font-weight: normal;
+}
